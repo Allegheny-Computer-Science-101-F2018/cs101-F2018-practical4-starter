@@ -44,6 +44,6 @@ public class TestCaesarCipher {
   public void testEncryptAndDecryptSentenceGigantic() {
     // TODO: Follow the pattern for the first test
     // using the GIGANTIC_SHIFT size instead of SMALL_SHIFT
-}
+  }
 
 }
